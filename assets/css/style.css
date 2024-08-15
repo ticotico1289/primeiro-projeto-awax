@@ -1,14 +1,27 @@
-body{
+*{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 header{
     height: 100px;
     background-color: #000;
+    color: #fff;
 }
 .header{
     max-width: 1140px;
     height: 100px;
-    background-color: red;
     margin: auto;
+    display: flex;
+}
+.logo{
+
+}
+.menu{
+    
+}
+.logoimg{
+    width: 80px;
+    height: 80px;
+    background-color: #b28756;
 }
